@@ -1,0 +1,44 @@
+Case 1: All attacks turn out to be successful
+
+Optimal move will be to attack from Southern Europe to Russia
+Was the attack a success?
+yes
+Optimal move will be to attack from Western Europe to Great Britain
+Was the attack a success?
+yes
+Optimal move will be to attack from Northern Europe to Scandinavia
+Was the attack a success?
+yes
+Optimal move will be to attack from South Africa to Central Africa
+Was the attack a success?
+yes
+Optimal move will be to attack from East Africa to Egypt
+Was the attack a success?
+yes
+Optimal move will be to attack from Central Africa to North Africa
+Was the attack a success?
+yes
+I hope I was of some help here!
+
+Case 2: Some attacks fail
+
+Optimal move will be to attack from Southern Europe to Russia
+Was the attack a success?
+no
+Optimal move will be to attack from Western Europe to Great Britain
+Was the attack a success?
+no
+Optimal move will be to attack from Northern Europe to Great Britain
+Was the attack a success?
+yes
+Optimal move will be to attack from Great Britain to Scandinavia
+Was the attack a success?
+yes
+Optimal move will be to attack from South Africa to Central Africa
+Was the attack a success?
+no
+Optimal move will be to attack from East Africa to North Africa
+Was the attack a success?
+yes
+I hope I was of some help here!
+
