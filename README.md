@@ -21,5 +21,16 @@ Once, the respective files are generated, run the program ValueIterationAlgorith
 The program will output the first optimal move. If the move was a success, type 'yes' else, type 'no'.
 Depending on your feedback, the agent will output the next optimal move accordingly.
 
+**Dependencies:**
+- Download JavaCSV API jar and add it to the project classpath.
+
+**Running the Program:**
+- Import the project into an IDE and then run GenerateStateSpaceGraphData.java alongwith the arguments as below:
+    java GenerateStateSpaceGraphData output_vertex_filepath output_edge_filepath
+  
+- Once the csv files are generated, specify their paths in ValueIterationAlgorithm.scala and run the code in Spark Client mode.
+
+- As the program starts printing the game moves, it will ask whether or not the move was a success. Reply with a "yes" or "no".
+
 **License:**
 See the LICENSE file for license rights and limitations (MIT).
