@@ -1,4 +1,4 @@
-# Optimal-Strategy-Making-Agent-For-RISK-Boardgame-Using-Spark-GraphX
+# Tyrion: An Optimal Strategy Making Agent For RISK Boardgame Using Spark GraphX
 
 This program simulates an optimal strategy making agent for RISK boardgame which devises
 an optimal strategy to help the concerned player to attempt to control an entire continent
